@@ -69,6 +69,15 @@ Admin dashboard powered entirely by APIs for CRUD operations, dynamic forms, and
 
 ---
 
+## 🧠 Top Skills
+- Full Stack Web Development  
+- Server Deployment (Ubuntu + Nginx + PM2)  
+- Real-time Systems (Socket.io + Redis)  
+- Scalable API Design  
+- Web Scraping (Puppeteer)  
+- Database Design (MySQL + MongoDB)
+
+
 ## 📫 Connect With Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/ajeet-kesherwani/](https://www.linkedin.com/in/ajeet-kesherwani/)
@@ -79,14 +88,25 @@ Admin dashboard powered entirely by APIs for CRUD operations, dynamic forms, and
 
 ## ⭐ Optional GitHub Stats
 
-You may later add GitHub stat cards, contribution charts, and badges here.
+## 📊 GitHub Stats
+![Ajeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajeetkesherwani&show_icons=true&theme=react)
 
----
 
-Want me to:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetkesherwani&layout=compact&theme=react)
 
-* Add badges & icons?
-* Add direct links to your repositories?
-* Add sections like "Top Skills", "Recent Work", or "Contribution Graph"?
 
-Just tell me and I’ll update it!
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajeetkesherwani&theme=react)
+
+## 📈 Contribution Graph
+![Ajeet's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajeetkesherwani&theme=react-dark)
+
+
+## 🏷️ Tech Badges
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
