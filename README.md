@@ -86,17 +86,6 @@ Admin dashboard powered entirely by APIs for CRUD operations, dynamic forms, and
 
 ---
 
-## ⭐ Optional GitHub Stats
-
-## 📊 GitHub Stats
-![Ajeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajeetkesherwani&show_icons=true&theme=tokyonight)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetkesherwani&layout=compact&theme=react)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ajeetkesherwani&theme=tokyonight)
-
 ## 📈 Contribution Graph
 ![Ajeet's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajeetkesherwani&theme=react-dark)
 
